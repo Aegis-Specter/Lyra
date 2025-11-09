@@ -1,0 +1,10 @@
+Lyra
+Core
+<> main.py
+<> input-handler.py
+<> responder.py
+<> log-handler.py
+Modules
+<> sys-info.py
+<> apps.py
+<> logs.txt
